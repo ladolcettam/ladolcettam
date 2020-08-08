@@ -4,6 +4,6 @@ body {
 }
 
 .dark {
-    background-color: #2c0f2c;
-    color: #eabff0;
+    background-color: #2c0f2c !important;
+    color: #eabff0 !important;
 }
